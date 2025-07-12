@@ -2,6 +2,8 @@
     "title":"超级·DA·马丁的博客",
     "subTitle":"正在学习产品和设计的全栈工程师，从业8年，历经沪漂北漂港漂返乡置业",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "onePageListNum":10,
     "singlePage":["about"],
     "i18n":"CN",
