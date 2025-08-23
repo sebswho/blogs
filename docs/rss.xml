@@ -1,5 +1,83 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>DA·马丁师兄</title><link>https://sebswho.github.io/blogs</link><description>正在学习产品和设计的全栈工程师，从业8年，历经沪漂北漂港漂返乡置业</description><copyright>DA·马丁师兄</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.com/sebswho/blogs/blob/main/static/avatar.svg</url><title>avatar</title><link>https://sebswho.github.io/blogs</link></image><lastBuildDate>Sat, 12 Jul 2025 08:17:36 +0000</lastBuildDate><managingEditor>DA·马丁师兄</managingEditor><ttl>60</ttl><webMaster>DA·马丁师兄</webMaster><item><title>顶级工程师应该具备的能力</title><link>https://sebswho.github.io/blogs/post/ding-ji-gong-cheng-shi-ying-gai-ju-bei-de-neng-li.html</link><description>## 前言
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>DA·马丁师兄</title><link>https://sebswho.github.io/blogs</link><description>正在学习产品和设计的全栈工程师，从业8年，历经沪漂北漂港漂返乡置业</description><copyright>DA·马丁师兄</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.com/sebswho/blogs/blob/main/static/avatar.svg</url><title>avatar</title><link>https://sebswho.github.io/blogs</link></image><lastBuildDate>Sat, 19 Jul 2025 06:21:11 +0000</lastBuildDate><managingEditor>DA·马丁师兄</managingEditor><ttl>60</ttl><webMaster>DA·马丁师兄</webMaster><item><title>分享我的碎片化时间精力管理方案</title><link>https://sebswho.github.io/blogs/post/fen-xiang-wo-de-sui-pian-hua-shi-jian-jing-li-guan-li-fang-an.html</link><description># 碎片化时间精力管理
+---
+
+## **工作日**
+
+- 上班期间优先完成公司任务
+- 可以穿插碎片化阅读
+
+## **晨间安排**
+
+- 每天早上 5:20 前起床，快速洗漱
+- 早上工作2小时
+- 早上是深度工作时间，不看新闻和消息
+- 早上确保正餐摄入
+
+## **午间安排**
+
+- 中午尽量不吃饭
+- 午睡1小时，不安排任务，也不随意插入任务
+
+## **晚间安排**
+
+- 半夜醒来不能玩手机，立即继续睡觉
+- 周一、四晚上安排游泳/健身房/操课
+- 周三、五晚上和周日早上固定骑行训练
+- 周二、六晚上集中精力从事脑力工作
+- 除周三、五晚上，每晚9点半要完成洗澡
+- 除周三、五晚上，每晚10点上床睡觉
+- 晚上可以进行碎片化工作、浅层任务
+- 晚上确保正餐摄入
+- 没有训练时，尽可能不吃夜宵
+
+## 额外说明
+
+- 积极探索、利用数字化管理
+- 每月审视本策略应用和效果，进行非频繁的必要调整
+
+---
+
+# 应对专注力下降的专家策略
+
+## 打造深度工作时间
+
+- 时间块管理法：每天安排至少2-3小时的不间断深度工作时间，屏蔽所有干扰（关闭邮件通知、手机静音）
+- 清晨专注法：利用清晨的安静时段进行关键任务处理，例如写作或数据分析
+
+## 简化工作环境
+
+- 优化办公空间：在安静的地方工作，减少不必要的打扰
+- 工具限制：使用专注模式应用（如Forest、Pomodoro）或设置限制访问某些干扰性网站
+
+## 重新审视多线程任务
+
+- 优先级排序：明确最重要的科研目标，减少同时进行的项目数量
+- 项目分阶段完成：将每个项目分解为独立的模块，逐一完成
+
+## 减少外部干扰
+
+- 设定“回复时间窗口”：集中时间批量处理邮件和会议，避免随时切换
+- 明确团队规则：鼓励科研团队尊重深度工作时间，减少不必要的即时沟通
+
+## 增强专注力的习惯
+
+- 正念训练：通过冥想或专注力练习，提高自我控制能力
+- 劳逸结合：确保工作与休息的平衡，避免长期透支专注力
+
+---
+
+# 学习范式
+
+- 快速更新：当不止一次遇到新概念或新问题时，立即重视，寻找应对之策
+- 视频长学习（划重点）：通过B站和油管高质量视频学习
+- DeepSeek AI 快速解答：90%的疑问可以被人工智能问答解决
+- 交流群和论坛：持续关注社区，从社区获取问题灵感
+- 阅读量：保持阅读量，很多时候可以从阅读中获得新范式和解决之道
+- 保持输出：没有输出的输入是无源之水
+
+---。</description><guid isPermaLink="true">https://sebswho.github.io/blogs/post/fen-xiang-wo-de-sui-pian-hua-shi-jian-jing-li-guan-li-fang-an.html</guid><pubDate>Sat, 19 Jul 2025 06:20:42 +0000</pubDate></item><item><title>PPT变现方式总结</title><link>https://sebswho.github.io/blogs/post/PPT-bian-xian-fang-shi-zong-jie.html</link><description>## 起因
+因为前段时间要做 PPT，导致最近在各大平台一直刷到付费 PPT 相关的算法推送。</description><guid isPermaLink="true">https://sebswho.github.io/blogs/post/PPT-bian-xian-fang-shi-zong-jie.html</guid><pubDate>Wed, 16 Jul 2025 08:28:27 +0000</pubDate></item><item><title>顶级工程师应该具备的能力</title><link>https://sebswho.github.io/blogs/post/ding-ji-gong-cheng-shi-ying-gai-ju-bei-de-neng-li.html</link><description>## 前言
 标题说“顶级工程师”，其实我真正想表达的是任何人到了“顶级”，必然会拥有很多共性。</description><guid isPermaLink="true">https://sebswho.github.io/blogs/post/ding-ji-gong-cheng-shi-ying-gai-ju-bei-de-neng-li.html</guid><pubDate>Sat, 12 Jul 2025 01:31:20 +0000</pubDate></item><item><title>My First Blog on GitHub Issues 第一篇博客</title><link>https://sebswho.github.io/blogs/post/My%20First%20Blog%20on%20GitHub%20Issues%20-di-yi-pian-bo-ke.html</link><description># 个人博客
 
 ## 背景
